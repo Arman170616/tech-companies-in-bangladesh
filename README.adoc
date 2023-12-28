@@ -19,12 +19,12 @@ List of tech companies to help developers to find jobs.
 
 |Adplay Technologies (VU Mobile)
 |Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
-|JavaScript, React, Wordpress
+|JavaScript, React, WordPress
 |http://vumobile.biz/[Website]
 
 |Anchorblock Technology
 |Block C House, 57 Rd Number 4, Dhaka 1213
-|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Andoid, Solidity, Smart Contact, Machine Learning, AWS
+|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Android, Solidity, Smart Contact, Machine Learning, AWS
 |https://anchorblock.ai/[Website]
 
 |Appnap
@@ -54,18 +54,18 @@ List of tech companies to help developers to find jobs.
 
 |Alchemy Software Limited
 |335, M.M Ali Road, Yahya Tower (6th Floor) Lalkhan Bazar, Chittagong, Bangladesh.
-|Java, Oracle, PHP, Wordpress, Laravel, .Net, Android
+|Java, Oracle, PHP, WordPress, Laravel, .Net, Android
 |https://alchemy-bd.com/[Website]
 
 |Bdtask
 |B-25, Mannan Plaza, 4th Floor, Khilkhet, Dhaka-1229,Bangladesh
-|Android, Web, Wordpress
+|Android, Web, WordPress
 |https://www.bdtask.com/[Website]
 
 
 |Binate Solutions
 |House-1148 (1st, 3rd, & 4th floor), Road 9A(Old-48), Mirpur DOHS, Dhaka-1216, Bangladesh
-|Java, Python, Ruby, Wordpress, Magento.
+|Java, Python, Ruby, WordPress, Magento.
 |https://www.binate-solutions.com/[Website]
 
 |Bit Mascot (Pvt.) Ltd.
@@ -202,7 +202,7 @@ https://github.com/ChumbokIT[Github]
 
 |Dream71
 |House No 16 (Level 4), Bashundhara R/A, Main Road, Block – A, Dhaka-1229, Bangladesh.
-|PHP, Laravel, JavaScript, MYSQL, Andoid, Flutter, iOS
+|PHP, Laravel, JavaScript, MYSQL, Android, Flutter, iOS
 |http://www.dream71.com/[Website]
 
 |Dcastalia Limited
@@ -340,7 +340,7 @@ https://github.com/ChumbokIT[Github]
 
 |Instalogic
 |3rd Floor, House - 483, Road - 08, Baridhara DOHS, Dhaka-1206
-|PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, Wordpress
+|PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, WordPress
 |https://instalogic.com.bd/[Website]
 
 |Integrated Software and Technologies Ltd.
@@ -355,12 +355,12 @@ https://github.com/ChumbokIT[Github]
 
 |iPay
 |52 Gulshan Avenue, Silver Tower (Level 12), Dhaka-1212
-|Android, Java, HTML, CSS, MongoDB, PostGreSQL
+|Android, Java, HTML, CSS, MongoDB, PostgreSQL
 |https://www.ipay.com.bd/[Website]
 
 |Invento Software Limited
 |House no: 484 (4th Floor) , Road no 32, Mohakhali DOHS, Dhaka 1206
-|JavaScript, Python, Django, Wordpress, PHP
+|JavaScript, Python, Django, WordPress, PHP
 |http://invento.com.bd/[Website]
 
 |IPvision
@@ -432,7 +432,7 @@ https://github.com/ChumbokIT[Github]
 
 |Magnito Digital
 |3rd Floor, House-7, Road-23/B, Gulshan-1, Dhaka, Bangladesh
-|Mobile app development, Web Design & Development, Digital Marketing , Analytics
+|Mobile app development, Web Design and development, Digital Marketing, Analytics
 |http://magnitodigital.com/[Website],
 https://www.facebook.com/magnitodigital[Facebook],
 https://www.linkedin.com/company/magnito-digital/[LinkedIn]
@@ -462,7 +462,7 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 
 |Millennium Information Solution Ltd.
 |49 Kawran Bazar Rd, Dhaka 1215, Bangladesh
-|Java, JEE, Spring,RESTful APIs
+|Java, JEE, Spring, RESTful APIs
 |https://www.mislbd.com/[Website]
 
 |Misfit Technologies
@@ -847,7 +847,7 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |Company Name |Office location |Technologies | Web presence
 
 |bkash
-|Shadhinata Tower, 1,Bir Sreshtha Shaheed Jahangir Gate, Dhaka Cantonment, Dhaka - 1206
+|Shadhinata Tower, 1, Bir Sreshtha Shaheed Jahangir Gate, Dhaka Cantonment, Dhaka - 1206
 |Java, Spring, PHP Laravel, Android, JavaScript, Java EE, JSP, Servlet, AWS
 |https://www.bkash.com[Website]
 
@@ -916,7 +916,7 @@ https://www.facebook.com/iPayBangladesh/[Facebook]
 
 |TruckLagbe
 |House 221 (3rd Floor), Road 15, New DOHS, Mohakhali, Dhaka – 1206, Bangladesh
-|JavaScript, Node, Angular, Flutter, SQL, PostGreSQL
+|JavaScript, Node, Angular, Flutter, SQL, PostgreSQL
 |https://trucklagbe.com[Website]
 
 |UPAY (UCB Fintech)
@@ -943,4 +943,4 @@ Contributions are always welcome! Create a pull request.
 
 
 === Copyright & License
-Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
+Licensed under the MIT License, see the link: LICENSE[LICENSE] file for details.
