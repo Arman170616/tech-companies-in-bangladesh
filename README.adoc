@@ -633,6 +633,11 @@ https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Java, C, C++, Android, ASP.NET
 |https://www.shebatech.com.bd/[Website]
 
+|Sicunet Inc.(Korea) 
+|Beside of Square Hospital, Panthopath, Dhaka, Bangladesh
+|Python, Django, JavaScript, React, TypeScript, MySQL, Flutter
+|https://www.sicunet.com/[Website]
+
 |Silicon Orchard Limited
 |House 01, Avenue 01, Block D, Section 11, Mirpur, Dhaka 1216, Bangladesh
 |PHP, NodeJS, ReactJS, Block chain, Android, iOS
